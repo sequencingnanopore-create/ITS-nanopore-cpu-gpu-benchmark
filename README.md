@@ -1,6 +1,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.19325905)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19325905.svg)](https://doi.org/10.5281/zenodo.19325905)
 
 ## Overview
 This repository contains all bioinformatics scripts used in the study:

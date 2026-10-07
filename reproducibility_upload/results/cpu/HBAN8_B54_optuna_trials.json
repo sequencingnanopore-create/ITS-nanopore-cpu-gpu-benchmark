@@ -1,0 +1,110 @@
+[
+    {
+        "min_length": 461,
+        "min_quality": 18.16137931528943,
+        "vsearch_id": 0.8931663929741673,
+        "min_cluster_size": 4,
+        "identity": 0.48458458084642175,
+        "trial": 0,
+        "value": 107.238765316909
+    },
+    {
+        "min_length": 943,
+        "min_quality": 10.277868178747513,
+        "vsearch_id": 0.8527152899717403,
+        "min_cluster_size": 5,
+        "identity": 0.7367413457773448,
+        "trial": 1,
+        "value": Infinity
+    },
+    {
+        "min_length": 960,
+        "min_quality": 15.417208577305164,
+        "vsearch_id": 0.8820176871749055,
+        "min_cluster_size": 4,
+        "identity": 0.5648990732390643,
+        "trial": 2,
+        "value": Infinity
+    },
+    {
+        "min_length": 607,
+        "min_quality": 12.187905981210797,
+        "vsearch_id": 0.8703584517020513,
+        "min_cluster_size": 5,
+        "identity": 0.43686614748535174,
+        "trial": 3,
+        "value": Infinity
+    },
+    {
+        "min_length": 477,
+        "min_quality": 16.118753653957505,
+        "vsearch_id": 0.9518617780337599,
+        "min_cluster_size": 4,
+        "identity": 0.6792414553054793,
+        "trial": 4,
+        "value": Infinity
+    },
+    {
+        "min_length": 783,
+        "min_quality": 15.78327597946717,
+        "vsearch_id": 0.9650643498553787,
+        "min_cluster_size": 3,
+        "identity": 0.7092667055327964,
+        "trial": 5,
+        "value": Infinity
+    },
+    {
+        "min_length": 894,
+        "min_quality": 19.069196635451,
+        "vsearch_id": 0.9431422927065725,
+        "min_cluster_size": 4,
+        "identity": 0.5544800506860521,
+        "trial": 6,
+        "value": Infinity
+    },
+    {
+        "min_length": 758,
+        "min_quality": 14.626913676964406,
+        "vsearch_id": 0.8508722217440269,
+        "min_cluster_size": 2,
+        "identity": 0.6342485584392881,
+        "trial": 7,
+        "value": Infinity
+    },
+    {
+        "min_length": 721,
+        "min_quality": 10.500076592549059,
+        "vsearch_id": 0.9302673230760835,
+        "min_cluster_size": 4,
+        "identity": 0.6219160232962135,
+        "trial": 8,
+        "value": Infinity
+    },
+    {
+        "min_length": 490,
+        "min_quality": 15.897502507903317,
+        "vsearch_id": 0.8708915129869924,
+        "min_cluster_size": 3,
+        "identity": 0.6751758065502202,
+        "trial": 9,
+        "value": 88.85578023974023
+    },
+    {
+        "min_length": 576,
+        "min_quality": 13.484345143357006,
+        "vsearch_id": 0.9051054846791136,
+        "min_cluster_size": 2,
+        "identity": 0.7894853761102156,
+        "trial": 10,
+        "value": Infinity
+    },
+    {
+        "min_length": 404,
+        "min_quality": 18.618745470849465,
+        "vsearch_id": 0.8860976758002106,
+        "min_cluster_size": 3,
+        "identity": 0.43691305473391645,
+        "trial": 11,
+        "value": 54.93570365846787
+    }
+]

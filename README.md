@@ -19,7 +19,7 @@ pip install -r requirements_cpu.txt
 ```
 
 ## Data Availability
-Raw sequencing data are deposited in NCBI SRA under BioProject PRJNA[XXXXXX].
+Raw sequencing data are deposited in NCBI SRA under BioProject PRJNA1444816.
 
 ## HPC Basecalling Commands (Dorado SUP)
 The GPU basecalling was performed on CEDIA HPC (NVIDIA A100-SXM4-40GB).

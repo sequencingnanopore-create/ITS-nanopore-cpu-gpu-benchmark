@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Machine Learning-Enhanced Nanopore ITS Analysis: Evaluating CPU-optimized VSEARCH vs GPU-accelerated SUP workflows for High-Accuracy Fungal Taxonomic Resolution"
+type: software
+authors:
+  - family-names: "Albuja"
+    given-names: "Daniel"
+  - family-names: "Maldonado"
+    given-names: "Paolo"
+  - family-names: "Zambrano"
+    given-names: "Peter"
+  - family-names: "Olmos-Tovar"
+    given-names: "J. Riczury"
+  - family-names: "Vera"
+    given-names: "Edwin"
+repository-code: "https://github.com/sequencingnanopore-create/ITS-nanopore-cpu-gpu-benchmark"
+doi: "10.5281/zenodo.19325904"
